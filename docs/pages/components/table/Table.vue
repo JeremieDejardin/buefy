@@ -88,7 +88,7 @@
                 Use the <code>subheading</code> prop on columns to add subheadings. This is particularly useful to display a summary when dealing with long tables.
             </p>
             <p>
-                By adding a scoped slot named <code>subheading</code> in table component you can customize the subheadings.
+                By adding a scoped slot named <code>subheading</code> in the table-column component you can customize the subheadings.
             </p>
         </Example>
 
